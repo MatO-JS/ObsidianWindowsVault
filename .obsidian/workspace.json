@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "fb702ed1f6ad0297",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9577ed5b347cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf4ae2aaa5c2ac5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notes/Sets and Maps in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fadc7156d676e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Notes/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02e416e828f9a759",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfd718441a25529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aca14922e145763",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b688ac40906064a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9088b071d1cc1b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b93a734b25e42499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/01. Introduction to Block chain and Ethereum/4. Ethereum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8741e2693101d32e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f44f08dcb5c683c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "a9304dd2fad0d297",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3cdaf660f657971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4796da1770a96f9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Notes/Sets and Maps in JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de1ea8af3ecf86ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Notes/Sets and Maps in JS.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d5cb3c6ea3892d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16536f4245d1ce78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Notes/Sets and Maps in JS.md"
+              }
+            }
+          },
+          {
+            "id": "6f3eb5929c29a78e",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "markdown-importer:Open format converter": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "bf4ae2aaa5c2ac5e",
+  "lastOpenFiles": [
+    "00 Notes/Git.md",
+    "00 Notes/Cache Data  Structure.md",
+    "00 Notes/Sets and Maps in JS.md",
+    "00 Notes/Modern JS - Part 2.md",
+    "DSA/Codevolution/4. Big-O Notation.md",
+    "DSA/Codevolution/3. Time and Space complexity.md",
+    "00 Notes/VS Code Shortcuts.md",
+    "00 Notes/Hash Maps.md",
+    "00 Notes/Obsidian Shortcuts.md",
+    "00 Notes/Time Table.md",
+    "DSA/NeetCode/System Design Concepts.md",
+    "DSA/NeetCode/Road Map.md",
+    "DSA/NeetCode/01. Dynamic Arrays.md",
+    "DSA/Codevolution/Search Algorithms.md",
+    "DSA/Codevolution/6. Math algorithms.md",
+    "DSA/Codevolution/5. Big-O of Objects and Arrays..md",
+    "DSA/Codevolution/2. Algorithms.md",
+    "Blockchain/04. Solidity Introduction/11. Array Manipulation in Solidity.md",
+    "Design Patterns/Javascript Design Patterns/01. Factory Design Pattersn.md",
+    "Blockchain/04. Solidity Introduction/13. Struct Manipulation In Solidity.md",
+    "Blockchain/04. Solidity Introduction/12. Map Manipulation in Solidity.md",
+    "Blockchain/00. BlockChain BM Notes/3. EVM Byte Code.md",
+    "Blockchain/00. BlockChain BM Notes/4. Smart Contracts.md",
+    "Blockchain/00. Sylabus.md",
+    "JAVA/Fundamentals.md",
+    "Design Patterns/Javascript Design Patterns",
+    "Design Patterns",
+    "00 Notes/Practice.md",
+    "Excalidraw",
+    "00 Assets/Screenshot 2024-04-10 212650.png",
+    "DSA/NeetCode",
+    "DSA/Codevolution",
+    "00 Assets/Screenshot 2024-04-10 191205.png",
+    "00 Assets/Screenshot 2024-04-07 061640.png",
+    "00 Assets/Screenshot 2024-04-01 075817.png",
+    "00 Assets/Ethereum Address.png",
+    "00 Notes/Untitled Diagram 1.svg",
+    "00 Notes/Untitled Diagram.svg",
+    "JAVA",
+    "ARCHIVE",
+    "DSA/Untitled Diagram.svg",
+    "00 Assets/Archetecture of DApp.png",
+    "00 Notes",
+    "00 Assets",
+    "00 Assets/Transactions.png",
+    "Z",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Anki Flash Cards/Untitled.canvas"
+  ]
+}

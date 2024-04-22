@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#72e9b5",
+    "recentlyUsedIcons": [
+      "SiCodesignal",
+      "LiRocket",
+      "SiObsidian",
+      "FabJava",
+      "TiNotes"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "00 Notes": "TiNotes",
+  "Blockchain": {
+    "iconName": "FabEthereum",
+    "iconColor": "#51e6dc"
+  },
+  "DSA": {
+    "iconName": "SiAlgorand",
+    "iconColor": "#dc38b8"
+  },
+  "00 Notes/Express Basics.md": "FabNodeJs",
+  "00 Notes/Git.md": "FabGit",
+  "00 Notes/Modern JS - Part 2.md": {
+    "iconName": "FabJs",
+    "iconColor": "#e8db54"
+  },
+  "00 Notes/Windows Key commands.md": {
+    "iconName": "SiWindows",
+    "iconColor": "#45bfe8"
+  },
+  "00 Notes/Logic Building.md": {
+    "iconName": "TiNotes",
+    "iconColor": "#fcfcfc"
+  },
+  "JAVA": {
+    "iconName": "FabJava",
+    "iconColor": "#6eb0f7"
+  },
+  "00 Notes/Obsidian Shortcuts.md": {
+    "iconName": "SiObsidian",
+    "iconColor": "#e66cfe"
+  },
+  "JAVA/Fundamentals.md": "FabJava",
+  "DSA/NeetCode": {
+    "iconName": "LiRocket",
+    "iconColor": "#e444c7"
+  },
+  "Design Patterns": {
+    "iconName": "SiCodesignal",
+    "iconColor": "#2e76ea"
+  },
+  "Design Patterns/Javascript Design Patterns": "SiCodesignal",
+  "00 Notes/VS Code Shortcuts.md": {
+    "iconName": "SiVisualstudiocode",
+    "iconColor": "#327ffb"
+  }
+}

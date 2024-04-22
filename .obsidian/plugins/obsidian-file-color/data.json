@@ -1,0 +1,100 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "2Lvxxx2cw95Yb8RU9j2Wg",
+      "name": "",
+      "value": "#549ce8"
+    },
+    {
+      "id": "c0wUbChQVneNOX0ow23nX",
+      "name": "",
+      "value": "#54e888"
+    },
+    {
+      "id": "g2nfQMZBo2m7FKlZ2J6Ba",
+      "name": "",
+      "value": "#77e4dd"
+    },
+    {
+      "id": "CJc0FugUE3s9Beq1FJEPa",
+      "name": "",
+      "value": "#c07cf8"
+    },
+    {
+      "id": "JBaSBfmMFGF2l5fZvqDWE",
+      "name": "",
+      "value": "#e5df38"
+    },
+    {
+      "id": "k1H796iW5Gwc-YBySxjBI",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "t7BVGT-MaUiVMw3dsi53b",
+      "name": "",
+      "value": "#ffa66b"
+    },
+    {
+      "id": "ZRqfGjZgT8AsNsjSrlYm5",
+      "name": "",
+      "value": "#ed5ab7"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 Notes/Express Basics.md",
+      "color": "c0wUbChQVneNOX0ow23nX"
+    },
+    {
+      "path": "DSA/Codevolution/2. Algorithms.md",
+      "color": "CJc0FugUE3s9Beq1FJEPa"
+    },
+    {
+      "path": "Blockchain",
+      "color": "g2nfQMZBo2m7FKlZ2J6Ba"
+    },
+    {
+      "path": "DSA",
+      "color": "CJc0FugUE3s9Beq1FJEPa"
+    },
+    {
+      "path": "00 Notes",
+      "color": "c0wUbChQVneNOX0ow23nX"
+    },
+    {
+      "path": "00 Notes/Modern JS - Part 2.md",
+      "color": "JBaSBfmMFGF2l5fZvqDWE"
+    },
+    {
+      "path": "00 Notes/Windows Key commands.md",
+      "color": "2Lvxxx2cw95Yb8RU9j2Wg"
+    },
+    {
+      "path": "00 Notes/VS Code Shortcuts.md",
+      "color": "2Lvxxx2cw95Yb8RU9j2Wg"
+    },
+    {
+      "path": "00 Notes/Logic Building.md",
+      "color": "k1H796iW5Gwc-YBySxjBI"
+    },
+    {
+      "path": "JAVA",
+      "color": "2Lvxxx2cw95Yb8RU9j2Wg"
+    },
+    {
+      "path": "00 Notes/Obsidian Shortcuts.md",
+      "color": "CJc0FugUE3s9Beq1FJEPa"
+    },
+    {
+      "path": "DSA/NeetCode",
+      "color": "CJc0FugUE3s9Beq1FJEPa"
+    },
+    {
+      "path": "Design Patterns",
+      "color": "2Lvxxx2cw95Yb8RU9j2Wg"
+    }
+  ]
+}
